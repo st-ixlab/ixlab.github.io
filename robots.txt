@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ixlab.github.io/sitemap.xml
+Sitemap: https://st-ixlab.github.io/sitemap.xml
